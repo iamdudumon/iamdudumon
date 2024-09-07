@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamdudumon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=opslevel.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## About Me
-👋 Hi, I'm 김두현 (Kim Du-Hyun)
 - 영남대 컴퓨터공학과 학부생 졸업
+
 
 ## Skills
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tgu06167)](https://solved.ac/tgu06167/)
@@ -19,9 +19,8 @@
 ![김두현's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdudumon&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdudumon&layout=compact&theme=radical)
 
+
 ## Contact
 - **Email:** tgu06167@gmail.com
 - **GitHub:** [iamdudumon](https://github.com/iamdudumon)
 - **Blog:** (https://velog.io/@iamdudumon)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=iamdudumon)](https://github.com/iamdudumon/velog-readme-stats)
