@@ -17,7 +17,6 @@
 
 ## GitHub Stats
 ![김두현's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdudumon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdudumon&layout=compact&theme=radical)
 
 
 ## Contact
