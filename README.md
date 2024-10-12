@@ -23,3 +23,7 @@
 - **Email:** tgu06167@gmail.com
 - **GitHub:** [iamdudumon](https://github.com/iamdudumon)
 - **Blog:** (https://velog.io/@iamdudumon)
+
+## Work experience
+- 42 경산: https://github.com/orgs/42-dukim/
+  - 24.03 ~ ing
