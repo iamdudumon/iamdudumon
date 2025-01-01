@@ -25,5 +25,7 @@
 - **Blog:** (https://velog.io/@iamdudumon)
 
 ## Work experience
+- Aitron 근로 장학생: 국가근로 장학생으로 활동
+  - 22.12 ~ 23.12  
 - 42 경산: https://github.com/orgs/42-dukim/
   - 24.03 ~ ing
