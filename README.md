@@ -16,10 +16,6 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
-
-## GitHub Stats
-![김두현's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdudumon&show_icons=true&theme=radical)
-
 ## Contact
 - **Email:** tgu06167@gmail.com
 - **GitHub:** [iamdudumon](https://github.com/iamdudumon)
