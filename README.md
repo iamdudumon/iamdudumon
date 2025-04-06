@@ -15,16 +15,16 @@
 
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 ## Contact
 - **Email:** tgu06167@gmail.com
 - **GitHub:** [iamdudumon](https://github.com/iamdudumon)
-- **Blog:** https://velog.io/@iamdudumon
+- **Blog:** [velog](https://velog.io/@iamdudumon
 
 ## Work experience
+- 42 경산: https://github.com/orgs/42-dukim/
+  - 24.03 ~ ing
 - (주)에이아이트론 근로
   - 국가근로 장학생으로 활동: 22.12 ~ 23.12
   - 계약직(알바형)으로 참여: 24.11 ~ 25.03
-- 42 경산: https://github.com/orgs/42-dukim/
-  - 24.03 ~ ing
