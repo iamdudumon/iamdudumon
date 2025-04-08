@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&text=iamdudumon%20profile&fontColor=d6ace6)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamdudumon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=opslevel.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## About Me
 - **Node.js(Express.js)** 백엔드 개발자
 - 영남대 컴퓨터공학과 학부생 졸업
@@ -20,7 +19,7 @@
 ## Contact
 - **Email:** tgu06167@gmail.com
 - **GitHub:** [iamdudumon](https://github.com/iamdudumon)
-- **Blog:** [velog](https://velog.io/@iamdudumon
+- **Blog:** [velog](https://velog.io/@iamdudumon)
 
 ## Work experience
 - 42 경산: https://github.com/orgs/42-dukim/
