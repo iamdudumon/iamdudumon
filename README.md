@@ -21,6 +21,11 @@
 - **GitHub:** [iamdudumon](https://github.com/iamdudumon)
 - **Blog:** [velog](https://velog.io/@iamdudumon)
 
+## Ongoing projects
+- ContainerOptiSearch
+  - 25.02 ~ ing
+  - 컨테이너 배치 리소스(cpu, 메모리) 할당 최적화 알고리즘 개발 
+
 ## Work experience
 - 42 경산: https://github.com/orgs/42-dukim/
   - 24.03 ~ ing
