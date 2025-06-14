@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&text=iamdudumon%20profile&fontColor=d6ace6)
 
 ## About Me
-- **Node.js(Express.js)** 백엔드 개발자
+- **Node.js** 백엔드 개발자
 - 영남대 컴퓨터공학과 학부생 졸업
 
 
@@ -31,4 +31,4 @@
   - 24.03 ~ ing
 - (주)에이아이트론 근로
   - 국가근로 장학생으로 활동: 22.12 ~ 23.12
-  - 계약직(알바형)으로 참여: 24.11 ~ 25.03
+  - 프리랜서로 참여: 25.04 ~ 25.07
